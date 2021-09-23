@@ -1,5 +1,5 @@
-hello lchi! hello git! 1 222222
-hello lchi! hello git! 2 333333
+hello lchi! hello git! 1 222
+hello lchi! hello git! 2 333
 hello lchi! hello git! 3
 hello lchi! hello git! 4
 hello lchi! hello git! 5
